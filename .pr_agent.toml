@@ -1,0 +1,13 @@
+[github]
+# GitHub personal access token
+token = ""  # 请在环境变量中设置 GITHUB_TOKEN
+
+[pr_reviewer]
+enable_review_labels_effort = true
+enable_auto_approval = true
+
+[pr_description]
+enable_auto_description = true
+
+[pr_code_suggestions]
+enable_code_suggestions = true
