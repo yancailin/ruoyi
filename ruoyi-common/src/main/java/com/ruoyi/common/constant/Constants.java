@@ -97,6 +97,7 @@ public class Constants
      */
     public static final String LOOKUP_LDAP = "ldap:";
 
+
     /**
      * LDAPS 远程方法调用
      */
